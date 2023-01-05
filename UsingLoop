@@ -12,7 +12,7 @@ public class Main {
         while(t>0){
         int n = sc.nextInt();
         int y = n%10;
-        for(; n>=9 ; n=n/10){
+        for(; n>9 ; n=n/10){
             
 
         }
